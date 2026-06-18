@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "QuantumSecurity: educational quantum-algorithm implementations for cryptography and cybersecurity analytics"
+message: "If you use this software or its ideas, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Tehrani
+    given-names: Madjid
+    alias: owlmt
+license: MIT
+repository-code: "https://github.com/owlmt/QuantumSecurity"
+url: "https://github.com/owlmt/QuantumSecurity"
+keywords:
+  - quantum computing
+  - cryptography
+  - cybersecurity
+  - Shor's algorithm
+  - Grover's algorithm
+  - Qiskit
+  - quantum security analytics
+year: 2026
